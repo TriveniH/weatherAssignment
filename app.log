@@ -1,0 +1,1603 @@
+2021-10-17T08:34:57.243Z - error: uncaughtException: Cannot read property 'bucketName' of undefined date=Sun Oct 17 2021 14:04:57 GMT+0530 (IST), pid=2975, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=95985664, heapTotal=68259840, heapUsed=46357408, external=19251875, loadavg=[1.1083984375, 1.2041015625, 1.328125], uptime=2315969
+TypeError: Cannot read property 'bucketName' of undefined
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/bigdata/server/controllers/gcs.server.controller.js:13:35)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:12:20)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+2021-10-17T16:41:44.806Z - error: uncaughtException: Cannot read property 'bucketName' of undefined date=Sun Oct 17 2021 22:11:44 GMT+0530 (IST), pid=5633, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=95641600, heapTotal=68259840, heapUsed=46443328, external=19279983, loadavg=[1.3017578125, 1.1396484375, 1.11474609375], uptime=2345176
+TypeError: Cannot read property 'bucketName' of undefined
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/bigdata/server/controllers/gcs.server.controller.js:13:35)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:12:20)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+2021-10-17T16:42:59.925Z - error: uncaughtException: Cannot read property 'bucketName' of undefined date=Sun Oct 17 2021 22:12:59 GMT+0530 (IST), pid=5713, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=94920704, heapTotal=68259840, heapUsed=46367544, external=19251875, loadavg=[1.36962890625, 1.17431640625, 1.12451171875], uptime=2345251
+TypeError: Cannot read property 'bucketName' of undefined
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/bigdata/server/controllers/gcs.server.controller.js:13:35)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:12:20)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+2021-10-17T16:43:26.377Z - error: uncaughtException: Cannot find module '/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/bigdata/server/controllers/gcs.server.controller' date=Sun Oct 17 2021 22:13:26 GMT+0530 (IST), pid=5767, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=73306112, heapTotal=61534208, heapUsed=34699856, external=18929138, loadavg=[1.279296875, 1.1728515625, 1.12451171875], uptime=2345277
+Error: Cannot find module '/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/bigdata/server/controllers/gcs.server.controller'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:12:20)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:6:11)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+2021-10-17T16:45:22.632Z - error: uncaughtException: mongoose is not defined date=Sun Oct 17 2021 22:15:22 GMT+0530 (IST), pid=5851, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81129472, heapTotal=62791680, heapUsed=42138696, external=20955676, loadavg=[1.46728515625, 1.21435546875, 1.138671875], uptime=2345394
+ReferenceError: mongoose is not defined
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:3)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:45:38.753Z - error: uncaughtException: mongoose is not defined date=Sun Oct 17 2021 22:15:38 GMT+0530 (IST), pid=5870, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=82862080, heapTotal=64888832, heapUsed=35619208, external=18652669, loadavg=[1.3701171875, 1.20361328125, 1.13623046875], uptime=2345410
+ReferenceError: mongoose is not defined
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:3)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:45:44.803Z - error: uncaughtException: mongoose is not defined date=Sun Oct 17 2021 22:15:44 GMT+0530 (IST), pid=5918, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=79581184, heapTotal=62791680, heapUsed=41921608, external=20955676, loadavg=[1.34033203125, 1.2001953125, 1.13525390625], uptime=2345416
+ReferenceError: mongoose is not defined
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:3)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:46:47.633Z - error: uncaughtException: mongoose is not defined date=Sun Oct 17 2021 22:16:47 GMT+0530 (IST), pid=5963, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86265856, heapTotal=62267392, heapUsed=39379496, external=19314569, loadavg=[1.296875, 1.1826171875, 1.1298828125], uptime=2345479
+ReferenceError: mongoose is not defined
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:3)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:47:56.464Z - error: uncaughtException: mongoose is not defined date=Sun Oct 17 2021 22:17:56 GMT+0530 (IST), pid=6013, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83742720, heapTotal=64888832, heapUsed=35004040, external=18580502, loadavg=[1.85302734375, 1.283203125, 1.16162109375], uptime=2345547
+ReferenceError: mongoose is not defined
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:3)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:48:03.074Z - error: uncaughtException: mongoose is not defined date=Sun Oct 17 2021 22:18:03 GMT+0530 (IST), pid=6052, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=80093184, heapTotal=62791680, heapUsed=41918032, external=20963868, loadavg=[1.9453125, 1.31201171875, 1.171875], uptime=2345554
+ReferenceError: mongoose is not defined
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:3)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:48:35.372Z - error: uncaughtException: _ is not defined date=Sun Oct 17 2021 22:18:35 GMT+0530 (IST), pid=6081, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85954560, heapTotal=62791680, heapUsed=38829560, external=19202743, loadavg=[1.31884765625, 1.21728515625, 1.14453125], uptime=2345586
+ReferenceError: _ is not defined
+    at Object.module.exports.connect (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:26:17)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:18:12)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:29:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:49:13.809Z - error: uncaughtException: _ is not defined date=Sun Oct 17 2021 22:19:13 GMT+0530 (IST), pid=6121, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84086784, heapTotal=63315968, heapUsed=38206112, external=19117893, loadavg=[1.2109375, 1.19140625, 1.1376953125], uptime=2345625
+ReferenceError: _ is not defined
+    at Object.module.exports.connect (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:26:17)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:19:12)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+    at bootstrap_node.js:609:3
+2021-10-17T16:49:31.443Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:19:31 GMT+0530 (IST), pid=6141, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85917696, heapTotal=63840256, heapUsed=38877992, external=19040780, loadavg=[1.3408203125, 1.212890625, 1.14501953125], uptime=2345642
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:52:47.323Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:22:47 GMT+0530 (IST), pid=6328, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81596416, heapTotal=63315968, heapUsed=43744992, external=20964375, loadavg=[0.37890625, 0.81884765625, 0.998046875], uptime=2345838
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:54:14.873Z - info: [0mGET /api/weather/ [33m404 [0m17.839 ms - 151[0m
+
+2021-10-17T16:54:43.643Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:24:43 GMT+0530 (IST), pid=6414, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88096768, heapTotal=62791680, heapUsed=39787040, external=19188711, loadavg=[1.37451171875, 1.001953125, 1.04052734375], uptime=2345955
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:55:28.562Z - info: [0mGET /api/weather/ [0m- [0m- ms - -[0m
+
+2021-10-17T16:55:44.846Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:25:44 GMT+0530 (IST), pid=6495, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84729856, heapTotal=65413120, heapUsed=34629376, external=18436549, loadavg=[1.599609375, 1.15966796875, 1.09326171875], uptime=2346016
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:56:50.023Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:26:50 GMT+0530 (IST), pid=6540, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87461888, heapTotal=63315968, heapUsed=39903464, external=19177537, loadavg=[2.6865234375, 1.48193359375, 1.205078125], uptime=2346081
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:56:55.632Z - info: [0mGET /api/weather/ [32m200 [0m431.279 ms - 589[0m
+
+2021-10-17T16:58:47.153Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:28:47 GMT+0530 (IST), pid=6601, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88125440, heapTotal=63315968, heapUsed=39795760, external=19185729, loadavg=[2.896484375, 1.81982421875, 1.35595703125], uptime=2346198
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:58:48.931Z - info: [0mGET /api/weather/ [32m200 [0m258.904 ms - 753[0m
+
+2021-10-17T16:59:25.843Z - error: uncaughtException: Unexpected token ) date=Sun Oct 17 2021 22:29:25 GMT+0530 (IST), pid=6634, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71323648, heapTotal=57761792, heapUsed=33441856, external=20156387, loadavg=[2.47119140625, 1.8134765625, 1.3701171875], uptime=2346237
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:21
+      return res.json(body.toJSON()));
+                                    ^
+
+SyntaxError: Unexpected token )
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:4:11)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+2021-10-17T16:59:37.799Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:29:37 GMT+0530 (IST), pid=6652, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84164608, heapTotal=64888832, heapUsed=35846736, external=18548536, loadavg=[2.8779296875, 1.92333984375, 1.41259765625], uptime=2346249
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T16:59:42.539Z - error: uncaughtException: body.toJSON is not a function date=Sun Oct 17 2021 22:29:42 GMT+0530 (IST), pid=6652, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84627456, heapTotal=64888832, heapUsed=36693968, external=18549402, loadavg=[2.6474609375, 1.89111328125, 1.40478515625], uptime=2346254
+TypeError: body.toJSON is not a function
+    at Request._callback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:21:28)
+    at Request.self.callback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:1154:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-17T17:01:42.246Z - info: [0mGET /api/weather/ [0m- [0m- ms - -[0m
+
+2021-10-17T17:01:58.569Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:31:58 GMT+0530 (IST), pid=6723, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87367680, heapTotal=63315968, heapUsed=39678152, external=19177537, loadavg=[2.6953125, 2.169921875, 1.57666015625], uptime=2346390
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:02:01.506Z - error: uncaughtException: body.toJSON is not a function date=Sun Oct 17 2021 22:32:01 GMT+0530 (IST), pid=6723, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88428544, heapTotal=63315968, heapUsed=40530456, external=19177954, loadavg=[3.2001953125, 2.28369140625, 1.61669921875], uptime=2346392
+TypeError: body.toJSON is not a function
+    at Request._callback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:22:28)
+    at Request.self.callback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:1154:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-17T17:02:27.796Z - info: [0mGET /api/weather/ [0m- [0m- ms - -[0m
+
+2021-10-17T17:02:54.775Z - error: uncaughtException: body.toJSON is not a function date=Sun Oct 17 2021 22:32:54 GMT+0530 (IST), pid=6723, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=63827968, heapTotal=35528704, heapUsed=31161008, external=17871337, loadavg=[1.8740234375, 2.091796875, 1.58935546875], uptime=2346446
+TypeError: body.toJSON is not a function
+    at Request._callback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:22:28)
+    at Request.self.callback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:1154:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/request/request.js:1076:12)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1064:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-17T17:04:04.224Z - info: [0mGET /api/weather?city=gadag [0m- [0m- ms - -[0m
+
+2021-10-17T17:18:46.012Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:48:46 GMT+0530 (IST), pid=7066, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87023616, heapTotal=63315968, heapUsed=38994392, external=19064087, loadavg=[0.7509765625, 0.49560546875, 0.87939453125], uptime=2347397
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:18:49.121Z - info: [0mGET /api/weather?city=gadag [32m200 [0m320.849 ms - 35[0m
+
+2021-10-17T17:19:34.286Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:49:34 GMT+0530 (IST), pid=7105, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87392256, heapTotal=62791680, heapUsed=39587384, external=19129764, loadavg=[1.42041015625, 0.689453125, 0.92529296875], uptime=2347445
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:19:39.032Z - info: [0mGET /api/weather?city=gadag [32m200 [0m233.514 ms - 35[0m
+
+2021-10-17T17:20:24.122Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:50:24 GMT+0530 (IST), pid=7176, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86192128, heapTotal=63315968, heapUsed=38917384, external=19040780, loadavg=[1.93896484375, 0.8896484375, 0.9765625], uptime=2347495
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:20:29.033Z - info: [0mGET /api/weather?city=gadag [32m200 [0m289.208 ms - 35[0m
+
+2021-10-17T17:20:54.528Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:50:54 GMT+0530 (IST), pid=7207, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87289856, heapTotal=62791680, heapUsed=40030600, external=19203250, loadavg=[2.79833984375, 1.1904296875, 1.07470703125], uptime=2347525
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:22:20.689Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:52:20 GMT+0530 (IST), pid=7255, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88150016, heapTotal=62791680, heapUsed=40156912, external=19252819, loadavg=[1.32373046875, 1.07470703125, 1.041015625], uptime=2347612
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:22:25.043Z - info: [0mGET /api/weather?city=gadag [36m302 [0m27.729 ms - 35[0m
+
+2021-10-17T17:22:25.053Z - info: [0mGET /server-error [33m404 [0m5.414 ms - 151[0m
+
+2021-10-17T17:22:43.529Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:52:43 GMT+0530 (IST), pid=7289, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87121920, heapTotal=63315968, heapUsed=39868160, external=19188711, loadavg=[1.6494140625, 1.1787109375, 1.0771484375], uptime=2347634
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:22:48.380Z - info: [0mGET /api/weather?city=gadag [32m200 [0m449.721 ms - 501[0m
+
+2021-10-17T17:28:40.843Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:58:40 GMT+0530 (IST), pid=7547, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84791296, heapTotal=64888832, heapUsed=36002096, external=18548536, loadavg=[1.6279296875, 1.0302734375, 1], uptime=2347992
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:29:02.865Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 22:59:02 GMT+0530 (IST), pid=7582, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81899520, heapTotal=63315968, heapUsed=43926464, external=20964375, loadavg=[1.83447265625, 1.12548828125, 1.0322265625], uptime=2348014
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:32:30.488Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:02:30 GMT+0530 (IST), pid=7656, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85204992, heapTotal=65937408, heapUsed=33838272, external=17877267, loadavg=[1.99853515625, 1.56201171875, 1.21533203125], uptime=2348221
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:32:48.465Z - info: [0mGET /api/weather?city=gadag [0m- [0m- ms - -[0m
+
+2021-10-17T17:33:58.859Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:03:58 GMT+0530 (IST), pid=7778, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=82309120, heapTotal=63315968, heapUsed=43191896, external=20964375, loadavg=[2.67236328125, 1.8798828125, 1.35986328125], uptime=2348310
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:34:02.807Z - info: [0mGET /api/weather?city=gadag [32m200 [0m363.115 ms - 501[0m
+
+2021-10-17T17:38:48.251Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:08:48 GMT+0530 (IST), pid=7911, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88215552, heapTotal=62791680, heapUsed=40178152, external=19315076, loadavg=[2.5087890625, 1.88916015625, 1.46533203125], uptime=2348599
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:40:35.736Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:10:35 GMT+0530 (IST), pid=7958, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87867392, heapTotal=63315968, heapUsed=39994224, external=19211442, loadavg=[1.77880859375, 1.93896484375, 1.53759765625], uptime=2348707
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:42:05.025Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:12:05 GMT+0530 (IST), pid=7995, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84811776, heapTotal=64888832, heapUsed=36556784, external=18631555, loadavg=[1.4794921875, 1.7607421875, 1.5087890625], uptime=2348796
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T17:59:21.046Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:29:21 GMT+0530 (IST), pid=8402, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85057536, heapTotal=64888832, heapUsed=36680664, external=18653176, loadavg=[2.53466796875, 2.19482421875, 2.20751953125], uptime=2349832
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:04:03.485Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:34:03 GMT+0530 (IST), pid=8615, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86794240, heapTotal=62791680, heapUsed=40115072, external=19244627, loadavg=[1.01806640625, 1.6455078125, 1.9912109375], uptime=2350114
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:05:01.354Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:35:01 GMT+0530 (IST), pid=8652, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=89014272, heapTotal=62791680, heapUsed=40021904, external=19244627, loadavg=[1.46533203125, 1.58837890625, 1.94482421875], uptime=2350172
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:05:51.308Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:35:51 GMT+0530 (IST), pid=8686, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84815872, heapTotal=64888832, heapUsed=36832408, external=18653176, loadavg=[1.29150390625, 1.5009765625, 1.89453125], uptime=2350222
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:05:58.119Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:35:58 GMT+0530 (IST), pid=8710, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84602880, heapTotal=64364544, heapUsed=36590128, external=18653176, loadavg=[1.6689453125, 1.57568359375, 1.9169921875], uptime=2350229
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:06:19.369Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:36:19 GMT+0530 (IST), pid=8730, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87334912, heapTotal=62791680, heapUsed=39970520, external=19244627, loadavg=[1.3037109375, 1.49560546875, 1.880859375], uptime=2350250
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:08:19.115Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:38:19 GMT+0530 (IST), pid=8820, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=82137088, heapTotal=63315968, heapUsed=43743648, external=20964375, loadavg=[1.2705078125, 1.42431640625, 1.80810546875], uptime=2350370
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:08:32.299Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:38:32 GMT+0530 (IST), pid=8847, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88150016, heapTotal=62791680, heapUsed=40165912, external=19203250, loadavg=[1.2900390625, 1.419921875, 1.80078125], uptime=2350383
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:08:35.463Z - info: [0mGET /api/weather/forecast?city=gadag [33m404 [0m24.366 ms - 159[0m
+
+2021-10-17T18:09:27.044Z - info: [0mGET /api/weather/forecast?city=gadag [33m404 [0m8.023 ms - 159[0m
+
+2021-10-17T18:11:43.389Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:41:43 GMT+0530 (IST), pid=8933, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87457792, heapTotal=63315968, heapUsed=39385208, external=19129764, loadavg=[1.44482421875, 1.29833984375, 1.669921875], uptime=2350574
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:11:51.615Z - info: [0mGET /api/weather/forecast?city=gadag [33m404 [0m39.339 ms - 159[0m
+
+2021-10-17T18:12:29.396Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Sun Oct 17 2021 23:42:29 GMT+0530 (IST), pid=8981, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88436736, heapTotal=62791680, heapUsed=40326408, external=19315076, loadavg=[1.16748046875, 1.26611328125, 1.6416015625], uptime=2350620
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-17T18:12:33.029Z - info: [0mGET /api/weather/forecast?city=gadag [32m200 [0m465.336 ms - 105[0m
+
+2021-10-18T08:11:57.946Z - info: [0mGET /api/weather/forecast?city=gadag [32m200 [0m345.718 ms - 105[0m
+
+2021-10-18T08:14:00.410Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 13:44:00 GMT+0530 (IST), pid=11050, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83644416, heapTotal=64888832, heapUsed=36418992, external=18596742, loadavg=[1.23095703125, 1.0478515625, 1.3251953125], uptime=2401111
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T08:14:11.622Z - info: [0mGET /api/weather/forecast?city=gadag&days=7 [32m200 [0m278.587 ms - 105[0m
+
+2021-10-18T08:29:30.437Z - error: uncaughtException: Route.get() requires callback functions but got a [object Undefined] date=Mon Oct 18 2021 13:59:30 GMT+0530 (IST), pid=11602, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81784832, heapTotal=62492672, heapUsed=34217648, external=18336960, loadavg=[0.57275390625, 0.8125, 1.10546875], uptime=2402041
+Error: Route.get() requires callback functions but got a [object Undefined]
+    at Route.(anonymous function) [as get] (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/express/lib/router/route.js:202:15)
+    at module.exports (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:8:38)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:187:37
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.initModulesServerRoutes (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:186:30)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:252:8)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:16:21)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+2021-10-18T16:18:22.381Z - error: uncaughtException: Route.get() requires callback functions but got a [object Undefined] date=Mon Oct 18 2021 21:48:22 GMT+0530 (IST), pid=13367, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=79613952, heapTotal=61968384, heapUsed=42665432, external=20171571, loadavg=[1.11572265625, 2.25732421875, 2.72705078125], uptime=2430173
+Error: Route.get() requires callback functions but got a [object Undefined]
+    at Route.(anonymous function) [as get] (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/express/lib/router/route.js:202:15)
+    at module.exports (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:8:38)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:187:37
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.initModulesServerRoutes (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:186:30)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:252:8)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:16:21)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+2021-10-18T16:18:46.269Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 21:48:46 GMT+0530 (IST), pid=13398, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84254720, heapTotal=64888832, heapUsed=35125496, external=18490871, loadavg=[1.87646484375, 2.32177734375, 2.73486328125], uptime=2430197
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T16:21:16.128Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 21:51:16 GMT+0530 (IST), pid=13456, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84692992, heapTotal=64888832, heapUsed=36299616, external=18596742, loadavg=[3.45654296875, 2.716796875, 2.81396484375], uptime=2430347
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T16:26:29.860Z - error: uncaughtException: Unexpected token . date=Mon Oct 18 2021 21:56:29 GMT+0530 (IST), pid=13803, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70402048, heapTotal=60383232, heapUsed=30031472, external=19005994, loadavg=[3.35107421875, 2.9169921875, 2.8505859375], uptime=2430661
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:14
+    .post(weather.addCityForWeather);
+    ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:187:5
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.initModulesServerRoutes (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:186:30)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:252:8)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:16:21)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+2021-10-18T16:41:35.285Z - error: uncaughtException: Unexpected token . date=Mon Oct 18 2021 22:11:35 GMT+0530 (IST), pid=14228, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71229440, heapTotal=60383232, heapUsed=30028880, external=19005994, loadavg=[2.20703125, 2.0556640625, 2.224609375], uptime=2431566
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:16
+    .post(weather.addCityForWeather);
+    ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:187:5
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.initModulesServerRoutes (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:186:30)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:252:8)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:16:21)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+2021-10-18T16:50:11.176Z - error: uncaughtException: Unexpected token . date=Mon Oct 18 2021 22:20:11 GMT+0530 (IST), pid=14505, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=69234688, heapTotal=60383232, heapUsed=30869504, external=19005994, loadavg=[1.9560546875, 1.71484375, 1.91552734375], uptime=2432080
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:16
+    .post(weather.addCityForWeather);
+    ^
+
+SyntaxError: Unexpected token .
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:187:5
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.initModulesServerRoutes (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:186:30)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:252:8)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:16:21)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+2021-10-18T16:56:41.703Z - error: uncaughtException: Unexpected token export date=Mon Oct 18 2021 22:26:41 GMT+0530 (IST), pid=14718, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=69586944, heapTotal=59858944, heapUsed=30845272, external=19014186, loadavg=[2.115234375, 2.07080078125, 2.03759765625], uptime=2432470
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:32
+export.getWeatherForecast = function (req, res) {
+^^^^^^
+
+SyntaxError: Unexpected token export
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:4:11)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+2021-10-18T16:57:09.257Z - error: uncaughtException: Route.post() requires callback functions but got a [object Undefined] date=Mon Oct 18 2021 22:27:09 GMT+0530 (IST), pid=14742, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=78413824, heapTotal=61444096, heapUsed=40700184, external=20171571, loadavg=[2.4443359375, 2.13232421875, 2.05712890625], uptime=2432498
+Error: Route.post() requires callback functions but got a [object Undefined]
+    at Route.(anonymous function) [as post] (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/express/lib/router/route.js:202:15)
+    at module.exports (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:16:6)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:187:37
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.initModulesServerRoutes (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:186:30)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:252:8)
+    at Object.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:16:21)
+    at Object.start (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:30:9)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js:7:18)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16)
+2021-10-18T17:02:00.682Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:32:00 GMT+0530 (IST), pid=14952, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84758528, heapTotal=64888832, heapUsed=36630056, external=18653176, loadavg=[2.54833984375, 2.37939453125, 2.1806640625], uptime=2432789
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:02:18.411Z - info: [0mGET /api/weather/forecast?city=gadag&days=7 [0m- [0m- ms - -[0m
+
+2021-10-18T17:02:56.479Z - info: [0mGET /api/weather?city=gadag [32m200 [0m447.919 ms - 492[0m
+
+2021-10-18T17:05:07.961Z - info: [0mGET /api/weather?lat=75.6167&lon=15.4167 [32m200 [0m1542.290 ms - 472[0m
+
+2021-10-18T17:08:25.995Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:38:25 GMT+0530 (IST), pid=15166, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84221952, heapTotal=64364544, heapUsed=36496824, external=18596742, loadavg=[2.11279296875, 1.9296875, 2.02392578125], uptime=2433175
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:09:49.954Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:39:49 GMT+0530 (IST), pid=15220, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84078592, heapTotal=63840256, heapUsed=36270296, external=18581009, loadavg=[2.85595703125, 2.1025390625, 2.06982421875], uptime=2433259
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:12:31.304Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:42:31 GMT+0530 (IST), pid=15325, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88559616, heapTotal=62267392, heapUsed=40843968, external=19444965, loadavg=[3.06005859375, 2.37109375, 2.16943359375], uptime=2433420
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:12:39.398Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:42:39 GMT+0530 (IST), pid=15350, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83890176, heapTotal=64364544, heapUsed=35762408, external=18540344, loadavg=[3.12451171875, 2.40869140625, 2.1845703125], uptime=2433428
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:14:25.833Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:44:25 GMT+0530 (IST), pid=15407, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85561344, heapTotal=63840256, heapUsed=38548416, external=19001172, loadavg=[1.84033203125, 2.12158203125, 2.1005859375], uptime=2433534
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:14:40.486Z - info: [0mGET /api/weather/forecast?city=gadag&days=7 [36m302 [0m34.540 ms - 35[0m
+
+2021-10-18T17:14:40.492Z - info: [0mGET /server-error [33m404 [0m2.661 ms - 151[0m
+
+2021-10-18T17:15:13.121Z - info: [0mGET /api/weather/forecast?city=gadag&days=7 [36m302 [0m3.105 ms - 35[0m
+
+2021-10-18T17:15:13.131Z - info: [0mGET /server-error [33m404 [0m2.182 ms - 151[0m
+
+2021-10-18T17:15:44.150Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:45:44 GMT+0530 (IST), pid=15476, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84533248, heapTotal=64888832, heapUsed=36744952, external=18653176, loadavg=[2.18701171875, 2.13916015625, 2.10546875], uptime=2433613
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:16:26.885Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:46:26 GMT+0530 (IST), pid=15502, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84619264, heapTotal=65413120, heapUsed=35355856, external=18501958, loadavg=[1.60693359375, 1.99462890625, 2.05712890625], uptime=2433656
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:18:44.567Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:48:44 GMT+0530 (IST), pid=15917, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84279296, heapTotal=64888832, heapUsed=36340224, external=18581009, loadavg=[2.7421875, 2.2314453125, 2.13330078125], uptime=2433793
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:21:01.428Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:51:01 GMT+0530 (IST), pid=15989, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85192704, heapTotal=64888832, heapUsed=35977952, external=18548536, loadavg=[2.3701171875, 2.1708984375, 2.1171875], uptime=2433930
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:21:09.179Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Mon Oct 18 2021 22:51:09 GMT+0530 (IST), pid=16008, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83845120, heapTotal=64888832, heapUsed=35738416, external=18548536, loadavg=[2.31982421875, 2.16552734375, 2.11572265625], uptime=2433938
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T17:21:15.852Z - info: [0mGET /api/weather/forecast?city=gadag&days=7 [36m302 [0m32.482 ms - 35[0m
+
+2021-10-18T17:21:15.885Z - info: [0mGET /server-error [33m404 [0m11.985 ms - 151[0m
+
+2021-10-18T17:21:30.952Z - info: [0mGET /api/weather?city=gadag [32m200 [0m321.510 ms - 492[0m
+
+2021-10-18T17:22:46.702Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m366.468 ms - 105[0m
+
+2021-10-18T17:22:49.783Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m268.361 ms - 105[0m
+
+2021-10-18T17:23:06.065Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m318.352 ms - 105[0m
+
+2021-10-18T19:27:56.793Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 00:57:56 GMT+0530 (IST), pid=16748, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85712896, heapTotal=63840256, heapUsed=38988952, external=19040780, loadavg=[1.83984375, 1.81494140625, 1.9443359375], uptime=2441545
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T19:28:14.180Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m874.983 ms - -[0m
+
+2021-10-18T19:53:40.243Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:23:40 GMT+0530 (IST), pid=17456, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84987904, heapTotal=63840256, heapUsed=36694624, external=18653176, loadavg=[1.72265625, 2.22412109375, 2.068359375], uptime=2443089
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T19:54:14.174Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:24:14 GMT+0530 (IST), pid=17505, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84172800, heapTotal=64888832, heapUsed=35109312, external=18499063, loadavg=[2.45947265625, 2.3349609375, 2.10986328125], uptime=2443123
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T19:59:04.731Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:29:04 GMT+0530 (IST), pid=17669, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83902464, heapTotal=64364544, heapUsed=35148072, external=18510150, loadavg=[3.447265625, 2.70263671875, 2.296875], uptime=2443413
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T19:59:53.188Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m656.418 ms - -[0m
+
+2021-10-18T20:00:23.328Z - info: [0mGET /api/weather?lat=75.6167&lon=15.4167 [32m200 [0m1869.122 ms - 469[0m
+
+2021-10-18T20:05:01.639Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:35:01 GMT+0530 (IST), pid=17825, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84729856, heapTotal=64888832, heapUsed=35848560, external=18548536, loadavg=[2.45849609375, 2.4130859375, 2.28076171875], uptime=2443770
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:12:11.787Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:42:11 GMT+0530 (IST), pid=18043, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=82460672, heapTotal=63315968, heapUsed=43752464, external=20964375, loadavg=[2.74560546875, 2.02392578125, 2.0654296875], uptime=2444200
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:15:03.933Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:45:03 GMT+0530 (IST), pid=18123, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85860352, heapTotal=66985984, heapUsed=33817248, external=17869075, loadavg=[2.591796875, 2.109375, 2.08056640625], uptime=2444373
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:15:12.202Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:45:12 GMT+0530 (IST), pid=18145, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88121344, heapTotal=62791680, heapUsed=40417920, external=19315076, loadavg=[2.7470703125, 2.15576171875, 2.09619140625], uptime=2444381
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:15:22.455Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:45:22 GMT+0530 (IST), pid=18166, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83963904, heapTotal=64888832, heapUsed=36939888, external=18653176, loadavg=[3.25390625, 2.283203125, 2.13818359375], uptime=2444391
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:15:43.548Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:45:43 GMT+0530 (IST), pid=18219, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81682432, heapTotal=63315968, heapUsed=43450048, external=20964375, loadavg=[3.08203125, 2.298828125, 2.1455078125], uptime=2444412
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:16:35.962Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:46:35 GMT+0530 (IST), pid=18262, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83832832, heapTotal=64888832, heapUsed=35799456, external=18540344, loadavg=[2.95263671875, 2.4716796875, 2.21875], uptime=2444465
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:19:40.582Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:49:40 GMT+0530 (IST), pid=18351, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81498112, heapTotal=63315968, heapUsed=43910016, external=20964375, loadavg=[0.50244140625, 1.53271484375, 1.89306640625], uptime=2444649
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:26:09.045Z - error: uncaughtException: await is only valid in async function date=Tue Oct 19 2021 01:56:09 GMT+0530 (IST), pid=18522, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71872512, heapTotal=60919808, heapUsed=26796256, external=19014186, loadavg=[1.3505859375, 1.1953125, 1.5830078125], uptime=2445038
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:45
+  parameter = await parameter.save();
+              ^^^^^
+
+SyntaxError: await is only valid in async function
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:4:11)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+2021-10-18T20:28:06.492Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:58:06 GMT+0530 (IST), pid=18609, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88301568, heapTotal=62791680, heapUsed=40389040, external=19315076, loadavg=[1.6689453125, 1.38818359375, 1.6083984375], uptime=2445155
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:28:21.724Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:58:21 GMT+0530 (IST), pid=18638, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87896064, heapTotal=62791680, heapUsed=40318016, external=19252819, loadavg=[1.8037109375, 1.43359375, 1.62060546875], uptime=2445170
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:28:34.720Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 01:58:34 GMT+0530 (IST), pid=18657, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85172224, heapTotal=64888832, heapUsed=36813240, external=18653176, loadavg=[1.76025390625, 1.43603515625, 1.61962890625], uptime=2445183
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:34:49.472Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:04:49 GMT+0530 (IST), pid=19142, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81735680, heapTotal=63315968, heapUsed=43200920, external=20964375, loadavg=[0.71728515625, 1.29296875, 1.5302734375], uptime=2445558
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:35:01.472Z - info: [0mGET /api/weather?lat=75.6167&lon=15.4167 [32m200 [0m1757.158 ms - 471[0m
+
+2021-10-18T20:35:54.143Z - error: uncaughtException: await is only valid in async function date=Tue Oct 19 2021 02:05:54 GMT+0530 (IST), pid=19203, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70197248, heapTotal=57761792, heapUsed=33172368, external=20156387, loadavg=[1.291015625, 1.32861328125, 1.52685546875], uptime=2445623
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:35
+      await createWeather(weather);
+      ^^^^^
+
+SyntaxError: await is only valid in async function
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:4:11)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+2021-10-18T20:36:10.852Z - error: uncaughtException: await is only valid in async function date=Tue Oct 19 2021 02:06:10 GMT+0530 (IST), pid=19221, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70123520, heapTotal=57761792, heapUsed=32118232, external=20156387, loadavg=[1.6767578125, 1.4111328125, 1.5517578125], uptime=2445640
+/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/controllers/weather.server.controller.js:35
+      await createWeather(weather);
+      ^^^^^
+
+SyntaxError: await is only valid in async function
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/routes/weather.server.routes.js:4:11)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+2021-10-18T20:36:39.023Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:06:39 GMT+0530 (IST), pid=19241, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83415040, heapTotal=64888832, heapUsed=36835336, external=18631555, loadavg=[2.47705078125, 1.58935546875, 1.60498046875], uptime=2445668
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:37:22.572Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:07:22 GMT+0530 (IST), pid=19283, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81055744, heapTotal=63315968, heapUsed=43931512, external=20964375, loadavg=[2.88134765625, 1.79443359375, 1.673828125], uptime=2445711
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:38:10.071Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:08:10 GMT+0530 (IST), pid=19324, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86585344, heapTotal=63315968, heapUsed=39265768, external=19110208, loadavg=[3.22216796875, 2.0146484375, 1.75390625], uptime=2445759
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:39:14.273Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:09:14 GMT+0530 (IST), pid=19375, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85123072, heapTotal=64364544, heapUsed=36262288, external=18581009, loadavg=[3.9541015625, 2.38134765625, 1.89208984375], uptime=2445823
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:39:50.976Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:09:50 GMT+0530 (IST), pid=19418, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81580032, heapTotal=63315968, heapUsed=43242472, external=20964375, loadavg=[4.181640625, 2.583984375, 1.9765625], uptime=2445860
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:41:57.169Z - info: [0mGET /api/weather?lat=75.6167&lon=15.4167 [0m- [0m- ms - -[0m
+
+2021-10-18T20:45:03.856Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:15:03 GMT+0530 (IST), pid=19648, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87449600, heapTotal=62791680, heapUsed=40168032, external=19244627, loadavg=[1.703125, 1.86767578125, 1.845703125], uptime=2446173
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:47:53.483Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:17:53 GMT+0530 (IST), pid=19752, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=88264704, heapTotal=62791680, heapUsed=40134752, external=19252819, loadavg=[2.7509765625, 2.07861328125, 1.916015625], uptime=2446342
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:48:13.629Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:18:13 GMT+0530 (IST), pid=19811, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87396352, heapTotal=62791680, heapUsed=39836896, external=19203250, loadavg=[3.02783203125, 2.173828125, 1.9501953125], uptime=2446362
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:50:22.492Z - info: [0mGET /api/weather?city=gadag [0m- [0m- ms - -[0m
+
+2021-10-18T20:51:08.118Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:21:08 GMT+0530 (IST), pid=19985, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85884928, heapTotal=66461696, heapUsed=33864112, external=17869075, loadavg=[2.28271484375, 2.23388671875, 2.01416015625], uptime=2446537
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:51:36.520Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:21:36 GMT+0530 (IST), pid=20016, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81678336, heapTotal=63315968, heapUsed=44115632, external=20964375, loadavg=[2.1376953125, 2.19970703125, 2.00732421875], uptime=2446565
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:59:15.354Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:29:15 GMT+0530 (IST), pid=20288, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81207296, heapTotal=63315968, heapUsed=44050224, external=20964375, loadavg=[0.5458984375, 1.01513671875, 1.49462890625], uptime=2447024
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:59:28.389Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:29:28 GMT+0530 (IST), pid=20320, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=85331968, heapTotal=65937408, heapUsed=33982952, external=17869075, loadavg=[0.8935546875, 1.064453125, 1.50244140625], uptime=2447037
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T20:59:47.291Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:29:47 GMT+0530 (IST), pid=20344, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84844544, heapTotal=64364544, heapUsed=36743784, external=18653176, loadavg=[1.00390625, 1.07763671875, 1.49951171875], uptime=2447056
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:01:50.920Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:31:50 GMT+0530 (IST), pid=20407, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86298624, heapTotal=63315968, heapUsed=39141520, external=19110208, loadavg=[1.43359375, 1.2431640625, 1.505859375], uptime=2447180
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:02:32.966Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:32:32 GMT+0530 (IST), pid=20439, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=82321408, heapTotal=63315968, heapUsed=44076904, external=20964375, loadavg=[2.31689453125, 1.4931640625, 1.57763671875], uptime=2447222
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:02:55.169Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:32:55 GMT+0530 (IST), pid=20466, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81272832, heapTotal=63315968, heapUsed=44052608, external=20964375, loadavg=[2.2822265625, 1.5283203125, 1.5859375], uptime=2447244
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:06:37.646Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:36:37 GMT+0530 (IST), pid=20583, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87617536, heapTotal=62791680, heapUsed=39677840, external=19177537, loadavg=[1.71044921875, 1.369140625, 1.49267578125], uptime=2447466
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:06:51.313Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:36:51 GMT+0530 (IST), pid=20605, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84017152, heapTotal=64364544, heapUsed=36482912, external=18631555, loadavg=[2.11328125, 1.4677734375, 1.5224609375], uptime=2447480
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:09:50.338Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:39:50 GMT+0530 (IST), pid=20754, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86982656, heapTotal=62791680, heapUsed=39470504, external=19244627, loadavg=[1.66259765625, 1.52685546875, 1.53369140625], uptime=2447659
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:09:57.852Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:39:57 GMT+0530 (IST), pid=20814, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81997824, heapTotal=63315968, heapUsed=43842136, external=20972567, loadavg=[1.529296875, 1.50146484375, 1.525390625], uptime=2447667
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:10:57.508Z - error: uncaughtException: mongooseService is not defined date=Tue Oct 19 2021 02:40:57 GMT+0530 (IST), pid=20878, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70909952, heapTotal=60919808, heapUsed=27401880, external=18937837, loadavg=[0.8828125, 1.35205078125, 1.47412109375], uptime=2447726
+ReferenceError: mongooseService is not defined
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:21:5
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-18T21:11:04.167Z - error: uncaughtException: Cannot find module '/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/constants' date=Tue Oct 19 2021 02:41:04 GMT+0530 (IST), pid=20892, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=72011776, heapTotal=60919808, heapUsed=27201768, external=18937837, loadavg=[1.3017578125, 1.423828125, 1.49560546875], uptime=2447733
+Error: Cannot find module '/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/constants'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/models/weather.server.model.js:8:15)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:17:5
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.loadModels (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:15:30)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:21:14
+2021-10-18T21:11:10.611Z - error: uncaughtException: Cannot find module '/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/constants' date=Tue Oct 19 2021 02:41:10 GMT+0530 (IST), pid=20909, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71495680, heapTotal=60919808, heapUsed=27444344, external=18937837, loadavg=[1.27734375, 1.41650390625, 1.49267578125], uptime=2447739
+Error: Cannot find module '/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/constants'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/modules/weather/server/models/weather.server.model.js:8:15)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:17:5
+    at Array.forEach (<anonymous>)
+    at Object.module.exports.loadModels (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:15:30)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:21:14
+2021-10-18T21:11:46.030Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:41:46 GMT+0530 (IST), pid=20940, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86425600, heapTotal=63315968, heapUsed=39399648, external=19185729, loadavg=[1.1669921875, 1.357421875, 1.46826171875], uptime=2447775
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:12:17.805Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:42:17 GMT+0530 (IST), pid=21025, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=82190336, heapTotal=63315968, heapUsed=43537400, external=20964375, loadavg=[0.9267578125, 1.28857421875, 1.44140625], uptime=2447806
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:13:26.592Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:43:26 GMT+0530 (IST), pid=21071, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86171648, heapTotal=64364544, heapUsed=38638520, external=19064087, loadavg=[1.341796875, 1.29736328125, 1.43115234375], uptime=2447875
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:14:11.748Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:44:11 GMT+0530 (IST), pid=21111, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86568960, heapTotal=63315968, heapUsed=39341864, external=19185729, loadavg=[1.50146484375, 1.34912109375, 1.4443359375], uptime=2447920
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:14:26.109Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:44:26 GMT+0530 (IST), pid=21135, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87588864, heapTotal=62791680, heapUsed=40024544, external=19379879, loadavg=[1.48876953125, 1.34912109375, 1.44287109375], uptime=2447935
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:15:09.359Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:45:09 GMT+0530 (IST), pid=21164, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=87433216, heapTotal=63840256, heapUsed=39606968, external=19211442, loadavg=[1.8212890625, 1.4189453125, 1.46044921875], uptime=2447978
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-18T21:16:34.491Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 02:46:34 GMT+0530 (IST), pid=21216, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=86749184, heapTotal=62791680, heapUsed=39639424, external=19219634, loadavg=[2.4150390625, 1.60205078125, 1.51513671875], uptime=2448063
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-19T07:28:07.376Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 12:58:07 GMT+0530 (IST), pid=6228, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71303168, heapTotal=60383232, heapUsed=33404728, external=19086652, loadavg=[0.66064453125, 0.9287109375, 1.86083984375], uptime=17339
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T07:28:15.016Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 12:58:15 GMT+0530 (IST), pid=6269, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=72454144, heapTotal=61444096, heapUsed=29466992, external=19086652, loadavg=[0.79931640625, 0.94775390625, 1.85693359375], uptime=17346
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T07:32:30.037Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:02:30 GMT+0530 (IST), pid=6384, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71426048, heapTotal=60919808, heapUsed=32314864, external=19086652, loadavg=[1.134765625, 0.89111328125, 1.59912109375], uptime=17601
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T07:46:46.371Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:16:46 GMT+0530 (IST), pid=7131, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=72245248, heapTotal=60919808, heapUsed=29369048, external=19086652, loadavg=[0.97705078125, 1.05615234375, 1.2080078125], uptime=18458
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T07:47:21.862Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:17:21 GMT+0530 (IST), pid=7177, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=72552448, heapTotal=61444096, heapUsed=28680168, external=19105905, loadavg=[0.8544921875, 1.01708984375, 1.1875], uptime=18493
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T07:47:43.348Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 13:17:43 GMT+0530 (IST), pid=7203, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83709952, heapTotal=64888832, heapUsed=35455320, external=18572817, loadavg=[1.27685546875, 1.09814453125, 1.2099609375], uptime=18515
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-19T07:47:49.325Z - error: uncaughtException: listen EADDRINUSE 127.0.0.1:27017 date=Tue Oct 19 2021 13:17:49 GMT+0530 (IST), pid=7261, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81817600, heapTotal=63315968, heapUsed=43657728, external=20964375, loadavg=[1.25439453125, 1.09619140625, 1.20849609375], uptime=18521
+Error: listen EADDRINUSE 127.0.0.1:27017
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1517:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:10)
+2021-10-19T07:52:32.852Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:22:32 GMT+0530 (IST), pid=7845, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=69738496, heapTotal=60383232, heapUsed=32579008, external=19086652, loadavg=[1.40625, 1.33984375, 1.2919921875], uptime=18804
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:18:30.882Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:48:30 GMT+0530 (IST), pid=8602, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71323648, heapTotal=60383232, heapUsed=32862488, external=19086652, loadavg=[1.24609375, 0.9189453125, 0.86572265625], uptime=20362
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:44:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:18:47.779Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:48:47 GMT+0530 (IST), pid=8641, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=71069696, heapTotal=60383232, heapUsed=32553664, external=19105905, loadavg=[1.64990234375, 1.02392578125, 0.9013671875], uptime=20379
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:45:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:19:35.068Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:49:35 GMT+0530 (IST), pid=8679, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70475776, heapTotal=60919808, heapUsed=32320312, external=19086652, loadavg=[1.8154296875, 1.14892578125, 0.94921875], uptime=20426
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:46:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:19:45.457Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:49:45 GMT+0530 (IST), pid=8701, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70569984, heapTotal=60395520, heapUsed=32318008, external=19086652, loadavg=[1.77685546875, 1.16064453125, 0.955078125], uptime=20437
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:46:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:20:01.670Z - error: uncaughtException: Converting circular structure to JSON date=Tue Oct 19 2021 13:50:01 GMT+0530 (IST), pid=8719, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70770688, heapTotal=60383232, heapUsed=29597296, external=18937837, loadavg=[2.0234375, 1.24951171875, 0.98876953125], uptime=20453
+TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:45:45
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:20:37.462Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:50:37 GMT+0530 (IST), pid=8745, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70049792, heapTotal=60919808, heapUsed=32509632, external=19086652, loadavg=[1.46875, 1.18994140625, 0.9794921875], uptime=20489
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:45:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:23:07.128Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:53:07 GMT+0530 (IST), pid=8823, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70270976, heapTotal=60919808, heapUsed=32632728, external=19087159, loadavg=[0.6640625, 0.931640625, 0.90966796875], uptime=20638
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:61:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:23:08.819Z - error: uncaughtException: Connection strategy not found date=Tue Oct 19 2021 13:53:08 GMT+0530 (IST), pid=8847, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=70897664, heapTotal=60383232, heapUsed=33531488, external=19087159, loadavg=[0.6640625, 0.931640625, 0.90966796875], uptime=20640
+Error: Connection strategy not found
+    at new MongoStore (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/connect-mongo/src/index.js:105:23)
+    at Object.module.exports.initSession (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:120:12)
+    at Object.module.exports.init (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/express.js:243:8)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:23:23
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/mongoose.js:61:15
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/lib/connection.js:789:19
+    at connectCallback (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/triveni/work/airasia-kafka/airasia-kafka-consumer/node_modules/mongoose/node_modules/mongodb/lib/mongo_client.js:430:11
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:29:57.109Z - error: uncaughtException: Cannot read property 'title' of undefined date=Tue Oct 19 2021 13:59:57 GMT+0530 (IST), pid=9163, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83046400, heapTotal=63315968, heapUsed=44169464, external=20964464, loadavg=[1.423828125, 1.10205078125, 0.97705078125], uptime=21048
+TypeError: Cannot read property 'title' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:42:42)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:31:05.923Z - error: uncaughtException: Cannot read property 'version' of undefined date=Tue Oct 19 2021 14:01:05 GMT+0530 (IST), pid=9191, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83394560, heapTotal=65413120, heapUsed=36316472, external=18588639, loadavg=[1.33056640625, 1.12939453125, 0.99658203125], uptime=21117
+TypeError: Cannot read property 'version' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:47:67)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:31:21.978Z - error: uncaughtException: Cannot read property 'title' of undefined date=Tue Oct 19 2021 14:01:21 GMT+0530 (IST), pid=9212, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84090880, heapTotal=65413120, heapUsed=36040008, external=18588639, loadavg=[1.10888671875, 1.08984375, 0.986328125], uptime=21133
+TypeError: Cannot read property 'title' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:42:42)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:31:32.719Z - error: uncaughtException: Cannot read property 'version' of undefined date=Tue Oct 19 2021 14:01:32 GMT+0530 (IST), pid=9233, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84168704, heapTotal=64888832, heapUsed=36951792, external=18689720, loadavg=[1.30078125, 1.1337890625, 1.00390625], uptime=21144
+TypeError: Cannot read property 'version' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:47:67)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:32:45.329Z - error: uncaughtException: Cannot read property 'version' of undefined date=Tue Oct 19 2021 14:02:45 GMT+0530 (IST), pid=9286, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84713472, heapTotal=65413120, heapUsed=36365392, external=18572906, loadavg=[1.513671875, 1.2021484375, 1.0361328125], uptime=21217
+TypeError: Cannot read property 'version' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:47:67)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:33:16.862Z - error: uncaughtException: Cannot read property 'version' of undefined date=Tue Oct 19 2021 14:03:16 GMT+0530 (IST), pid=9313, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84242432, heapTotal=65413120, heapUsed=36395032, external=18631644, loadavg=[1.109375, 1.13330078125, 1.01708984375], uptime=21248
+TypeError: Cannot read property 'version' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:47:67)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:33:39.511Z - error: uncaughtException: Cannot read property 'version' of undefined date=Tue Oct 19 2021 14:03:39 GMT+0530 (IST), pid=9336, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84373504, heapTotal=65413120, heapUsed=36497936, external=18653265, loadavg=[1.44091796875, 1.205078125, 1.04296875], uptime=21271
+TypeError: Cannot read property 'version' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:48:67)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:33:52.658Z - error: uncaughtException: Converting circular structure to JSON date=Tue Oct 19 2021 14:03:52 GMT+0530 (IST), pid=9386, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84320256, heapTotal=65413120, heapUsed=35876504, external=18572906, loadavg=[1.7431640625, 1.2783203125, 1.0693359375], uptime=21284
+TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:41:37)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:34:12.059Z - error: uncaughtException: Cannot read property 'version' of undefined date=Tue Oct 19 2021 14:04:12 GMT+0530 (IST), pid=9410, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84156416, heapTotal=65413120, heapUsed=36510360, external=18653265, loadavg=[1.677734375, 1.28173828125, 1.07373046875], uptime=21303
+TypeError: Cannot read property 'version' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:48:67)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:34:29.199Z - error: uncaughtException: Cannot read property 'title' of undefined date=Tue Oct 19 2021 14:04:29 GMT+0530 (IST), pid=9434, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=83927040, heapTotal=65413120, heapUsed=36381256, external=18653265, loadavg=[1.36083984375, 1.2314453125, 1.0615234375], uptime=21320
+TypeError: Cannot read property 'title' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:41:43)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:48:05.335Z - error: uncaughtException: Cannot read property 'title' of undefined date=Tue Oct 19 2021 14:18:05 GMT+0530 (IST), pid=9960, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=81563648, heapTotal=63315968, heapUsed=44117200, external=20964464, loadavg=[1.279296875, 1.05908203125, 1.017578125], uptime=22137
+TypeError: Cannot read property 'title' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:41:43)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T08:48:16.239Z - error: uncaughtException: Cannot read property 'title' of undefined date=Tue Oct 19 2021 14:18:16 GMT+0530 (IST), pid=9980, uid=1000, gid=1000, cwd=/home/triveni/work/airasia-kafka/airasia-kafka-consumer, execPath=/usr/bin/node, version=v8.10.0, argv=[/usr/bin/node, /home/triveni/work/airasia-kafka/airasia-kafka-consumer/server.js], rss=84889600, heapTotal=65413120, heapUsed=37048608, external=18685584, loadavg=[1.16259765625, 1.0400390625, 1.01123046875], uptime=22148
+TypeError: Cannot read property 'title' of undefined
+    at Server.<anonymous> (/home/triveni/work/airasia-kafka/airasia-kafka-consumer/config/lib/app.js:41:43)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:111:20)
+    at Server.emit (events.js:208:7)
+    at emitListeningNT (net.js:1394:10)
+    at _combinedTickCallback (internal/process/next_tick.js:135:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2021-10-19T09:02:18.681Z - info: [0mGET /api/weather?city=gadag [32m200 [0m462.857 ms - 499[0m
+
+2021-10-19T10:21:56.620Z - info: [0mGET /api/weather?city=gadag [32m200 [0m426.338 ms - 289[0m
+
+2021-10-19T10:24:11.846Z - info: [0mGET /api/weather?city=gadag [32m200 [0m521.792 ms - 289[0m
+
+2021-10-19T10:56:52.807Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m778.297 ms - -[0m
+
+2021-10-19T10:58:06.253Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m900.977 ms - -[0m
+
+2021-10-19T11:02:02.282Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m812.651 ms - -[0m
+
+2021-10-19T11:02:59.571Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m681.336 ms - -[0m
+
+2021-10-19T11:03:28.158Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m691.869 ms - -[0m
+
+2021-10-19T11:53:07.420Z - info: [0mGET /api/weather?lat=75.6167&lon=15.4167 [32m200 [0m1992.858 ms - 290[0m
+
+2021-10-19T11:53:22.703Z - info: [0mGET /api/weather?id=2172797 [32m200 [0m329.330 ms - 274[0m
+
+2021-10-19T11:53:27.378Z - info: [0mGET /api/weather?city=gadag [32m200 [0m304.428 ms - 289[0m
+
+2021-10-19T11:53:34.393Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=7 [32m200 [0m514.538 ms - -[0m
+
+2021-10-19T11:53:39.587Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167&days=3 [32m200 [0m434.928 ms - -[0m
+
+2021-10-19T11:54:11.960Z - info: [0mGET /api/weather/forecast?lat=15.4167&lon=75.6167 [32m200 [0m321.511 ms - -[0m
+

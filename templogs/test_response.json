@@ -1,0 +1,31 @@
+{
+    "app_name": "platform",
+    "app_version": "v1.0.0-benchmarking-benchmarking",
+    "awaiting": {},
+    "conversation_id": "d3209fcf-daee-41e0-a397-f31c11fca3be",
+    "debug_info": {
+        "annotationTime": 0.01035165786743164,
+        "classificationTime": 0.014359235763549805,
+        "intermediate_states": [],
+        "nluResponseTime": 0.030864477157592773
+    },
+    "fields": {},
+    "intent": "BookFlight",
+    "intermediate_intents": [],
+    "language": "en",
+    "original_query": "Book flight from LA to Bangalore",
+    "query": "book flight from la to bangalore",
+    "query_status": "fail",
+    "response_id": "5a66fdfe-d443-4842-afaa-1ae75a8333d3",
+    "response_text": "Unable to process your request.",
+    "responses": [
+        {
+            "text": "Unable to process your request."
+        }
+    ],
+    "rule_type": "fallback",
+    "skill_data": {},
+    "spell_corrected": false,
+    "version": "18.09.25"
+}
+

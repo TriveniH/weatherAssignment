@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "airasia-voice-dev",
+  "private_key_id": "c876bb03ea549184e0c4bb24f1c91aae0ada0ffb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCh1Et68t8YTo0+\nnEGEMVpnukLoGcfyARdd6IwWc+AUXxtDFOrQbd4vdlupzyTMB6ECmyBhJDsp4HVG\nohBAhO0EsJ2GB2mSpovMBWsnm3xqy/Rl00Qi5Sq60ti3UvJhvsIb9Y6Q4HSTAqPk\na7+xOQ9jByHVIeWOaxugPMvkjVIbB0KcjvkcHoE/DMTYlwz2eJ7dVaKtxhGECbbO\n07IG6fWZhh6UcfzhgNS2zd114f+E9dUjsHbJW1Gsq+85dqwMAyOemQNfF1YTvgBn\np8GAUO3/syYnbMAJCENxsC+kTrNFQFOgV/XFW/fX8CG6B+lX4IepXcRwr8n35Npi\nsyAadW7tAgMBAAECggEAGw2ugKNRgHLBUhI1MbA+eNC+lqaYsnBUQ7K4mJhOgZlU\nqWY5yxZS6oRS1pR2hlVQKWtdgl/YNCv97wzwwph2Ny5/ZwSeNZH6FOVjAIAR0JjA\nBrXG0j6VYh4VdLA9LPIC6UGnz7h2RI1QcMNCjJIJbHiow0SjZ6eoOqVvQIoPi8zq\n2CfDtuVUNcJPhfWqg7QTPkx0bpXkn8f9+YUg4o+tpdje7in7QLMfIAZiRVl6lWLI\nIihS9yvhrfHwr3hKAJRjSZbfL7psjEpvTWUe0KUCgpL3VBFO3lYfi0tnmPKBxBds\nREAIXIg5kIiJQ3XysPUPp8gE+bZqkW6dLf3nEO/bAQKBgQDP8YHJkDpqG9dw3ewO\nAxd/NVa9uJmj+k8WERNak9HW502+Y+uU3vU6FW06pj4NWVM/h153FeQkZlLd8pUF\ny/V9NCCSro4SZmKq7H+lj/O0Cqci/iBp8DtY8n5t06TsxuWTF3rBFcOotLTJ3f0b\nlVKssY2bw3Qj+uZeif3bpx//cQKBgQDHOo1sJJaJF6c7TFQQBdMs321mPe2jVaed\nD43QfmPqOg8jvYrEGoKisDP/6IIFE60cRXsY2tdVDFCwCmMQT/rd40UcIv4urXlY\nedaaWwL1jPxz5wRMwjqZhfLJqGyWBKK2KuzM1VdNWBVyrxqkeWCCt7Qx+5IYxDu8\nUrN3gmghPQKBgQCCwlAl6p8A+G76V2LH0OPmpyjbdoiOl6lBrA0qiQeMBrlZfsW2\nQJmeI7kjB0S/6iqyKTKa2dYzmXCEhrV1BrNhPvU4p7FJGr7y0nLWLnZGAejl1T2W\nwGzhWuNrtongJpZYb4xOfJwjqzaANiqiPLzXQXNVvot60JwqWMWcaTRy0QKBgHTv\n/kBifWU8V/ErTRAWiywEfI8NfGVpijdbAM9G0FiT+Xzt7PxL3y+kovDrRR27vdkh\nQy6EjO2ji9y4TAswFryUgGUSeQVm1xnCcd8p2mPMfAV/rHttab3g7G/HBu1LDUJF\nkbZs5pBESlqFQusVPzuang7UbZ1R2QohtKtKBNq1AoGBALN0wcPjwZ4f3AU+mpVY\nGWKFLQLRGvqF33gCTWit1XeksIpmLSX8gyPJuMuSwDUWkoodEb37ib78JTCjNUu7\n3dqawhxQTYDXd7XFhx5d/eLJtabDMC9ar9DcEI1ySE06R9CrJujYZha1GrbM/qhM\nf341IiSL+r+DHLvrPkX7+S4f\n-----END PRIVATE KEY-----\n",
+  "client_email": "vendor-bucket@airasia-voice-dev.iam.gserviceaccount.com",
+  "client_id": "114669134212698566810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vendor-bucket%40airasia-voice-dev.iam.gserviceaccount.com"
+}
