@@ -10,7 +10,7 @@ module.exports = {
     openWeatherUri: process.env.OPEN_WEATHER_URI || 'http://api.openweathermap.org/data/2.5/weather',
     openWeatherForecastUri: process.env.OPEN_WEATHER_FORECAST_URI || 'https://api.openweathermap.org/data/2.5/onecall',
     defaultForecastDays: 7,
-    apiKey: '3568bd1e08bbd0c6f83ef2ac2be84bd1'
+    apiKey: process.env.OPEN_WEATHER_API_KEY || '3568bd1e08bbd0c6f83ef2ac2be84bd1'
   },
   db: {
     promise: global.Promise,
